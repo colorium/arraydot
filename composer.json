@@ -1,0 +1,22 @@
+{
+  "name": "colorium/arraydot",
+  "type": "library",
+  "description": "Traversable array using dot notation",
+  "homepage": "https://github.com/colorium/arraydot",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aymeric Assier",
+      "email": "aymeric.assier@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Colorium\\Tools": "/src/Colorium/Tools/"
+    }
+  }
+}
