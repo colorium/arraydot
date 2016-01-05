@@ -1,7 +1,7 @@
 {
   "name": "colorium/arraydot",
   "type": "library",
-  "description": "Traversable array using dot notation",
+  "description": "Traversable array with dot notation",
   "homepage": "https://github.com/colorium/arraydot",
   "license": "MIT",
   "authors": [
