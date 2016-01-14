@@ -1,4 +1,4 @@
-# Colorium Array Dot Notation
+# Traversable array using dot notation
 
 Using an instance :
 
@@ -27,3 +27,7 @@ $array = [
 
 echo ArrayDot::get($array, 'foo.bar'); // 'baz'
 ```
+
+## Install
+
+`composer require colorium/arraydot`
